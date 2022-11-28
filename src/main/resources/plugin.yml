@@ -1,0 +1,6 @@
+name: Auto Reset World
+version: '${project.version}'
+main: dev.kkasim.indra.autoresetworld.AutoResetWorld
+api-version: 1.19
+authors: [ Me ]
+description: Resets yo world on death
